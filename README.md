@@ -1,4 +1,4 @@
-# TP1 SSL K2032
+# SSL TPs Grupales
 
 ## Integrantes
 
@@ -7,5 +7,5 @@
 - Nataly Sofia Rohling Insua
 - Nehuen Balian Amaros 
 - Rocío Ochoa Charlín
-- Julián Alejandro Mosquera
 - Guido Marchi
+- Julian Alejandro Mosquera

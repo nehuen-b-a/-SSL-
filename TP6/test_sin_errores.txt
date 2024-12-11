@@ -1,0 +1,9 @@
+cad HOLA = "hola"
+ent NUMUNO = 12 
+ent NUMDOS = 5
+ent NUMTRES = NUMUNO + NUMDOS
+ent NUMCUATRO
+
+mostrar "ingresar nro entero"
+ing NUMCUATRO
+mostrar NUMTRES + NUMCUATRO
